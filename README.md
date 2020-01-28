@@ -17,3 +17,8 @@ STudy 20YY MM DD
 ### `Main_numberJ_name`
 
 - This means the problem is from [JUNGOL](https://https://http://www.jungol.co.kr)
+
+## Under the ST000000 Directory
+
+- You can see images that record of the code(s).
+- Not All Directories have images. (I'll update all soon)
