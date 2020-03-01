@@ -23,9 +23,6 @@ public class Solution_4534_트리흑백색칠 {
 		
 		public void getWB() {
 			this.visited = true;
-			int cnt = 0;
-			for (Node node : this.connect) if(!node.visited) ++cnt;
-			if(cnt == 0) return;
 			for (Node node : this.connect) {
 				if(!node.visited) {
 					node.getWB();
